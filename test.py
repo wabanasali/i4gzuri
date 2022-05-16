@@ -1,1 +1,1 @@
-print('Hello guys')
+print('Hello guys, this is a test script for I4GZuri')
